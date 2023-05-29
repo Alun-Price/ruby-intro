@@ -1,8 +1,8 @@
 # frozen_string_literal: true
 
-puts 'Hello World'
-print 'Hello World'
-p 'Hello World'
+puts "Hello World"
+print "Hello World"
+p "Hello World"
 
 # This is a comment
 
